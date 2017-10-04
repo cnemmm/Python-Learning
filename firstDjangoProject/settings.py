@@ -25,7 +25,7 @@ SECRET_KEY = '$f!nfpbvbqxx7c)@ujf6kp8)bggyhw0pjkjiniahi7mp0kt&vw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://django-learning.herokuapp.com']
+ALLOWED_HOSTS = ['django-learning.herokuapp.com']
 
 
 
