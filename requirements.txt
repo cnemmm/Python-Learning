@@ -9,7 +9,7 @@ inflection==0.3.1
 matplotlib==2.0.2
 mccabe==0.6.1
 more-itertools==3.2.0
-numpy==1.13.1+mkl
+numpy==1.13.1
 olefile==0.44
 pandas==0.20.3
 pew==0.1.26
